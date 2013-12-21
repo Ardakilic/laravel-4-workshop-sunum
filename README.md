@@ -5,7 +5,7 @@ Laravel 4 Workshop Sunumu
 
 ###Hazırladığım sunuma ise [buradan](http://www.slideshare.net/ardakilic/laravel-4-events-and-queues) erişebilirsiniz.
 
-Eğer Sunumla ilgili bir sorunuz varsa buradan issue olarak açarsanız elimden geldiğince cevaplamaya çalışacağım.
+Eğer Sunumla ilgili bir sorunuz varsa [buradan](https://github.com/Ardakilic/laravel-4-workshop-sunum/issues) issue olarak açarsanız elimden geldiğince cevaplamaya çalışacağım.
 
 
 ![happy coding!](http://i.imgur.com/t7skxPt.png)
