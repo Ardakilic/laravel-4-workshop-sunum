@@ -6,7 +6,7 @@
 	"require": {
 		"laravel/framework": "4.1.*",
 
-        "iron-io/iron_mq":  "dev-master"
+        	"iron-io/iron_mq":  "dev-master"
 
 	},
 	"autoload": {
