@@ -8,4 +8,4 @@ Laravel 4 Workshop Sunumu
 Eğer Sunumla ilgili bir sorunuz varsa buradan issue olarak açarsanız elimden geldiğince cevaplamaya çalışacağım.
 
 
-![happy coding][http://i.imgur.com/t7skxPt.png]
+![happy coding!](http://i.imgur.com/t7skxPt.png)
